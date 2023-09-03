@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="PyQt5-stubs==5.15.6.0" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.pygame" />
+          <option value="main.display" />
+          <option value="main.argument" />
+          <option value="main.Traceback" />
+          <option value="main.last" />
+          <option value="main.call" />
+          <option value="main.most" />
+          <option value="main.recent" />
+          <option value="main.recentcall" />
+          <option value="main.given" />
+          <option value="main.one" />
+          <option value="main.exactly" />
+          <option value="main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

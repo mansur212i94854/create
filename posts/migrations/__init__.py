@@ -1,0 +1,1 @@
+"PostsConfig.apps.Configposts"
